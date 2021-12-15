@@ -2,8 +2,8 @@ instance: aflciodemo
 
 default_field_map: &default_field_map
   id:
-    column:
-    ab_type:
+    column: id
+    ab_type: Custom ID 1
   people: &default_people_map
       first_name: First Name
       last_name: Last Name
